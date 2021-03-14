@@ -1,0 +1,7 @@
+pages\BasePage.class
+pages\ApplicationPage.class
+Testing.class
+pages\InsightsPage.class
+StepDefinitions.class
+pages\MainPage.class
+test\TestBase.class
